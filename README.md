@@ -79,7 +79,7 @@ Based on the displayed dashboard:
 - **Data Transformation**
 - **Data Modeling**
 - **Data Visualization**
-- 
+
 ## 📂 Project Structure
 The files in this repository are currently stored in the root directory:
 Finance-Analysis-Power-BI-Dashboard/
