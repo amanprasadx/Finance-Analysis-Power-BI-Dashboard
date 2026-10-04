@@ -79,7 +79,8 @@ Based on the displayed dashboard:
 - **Data Transformation**
 - **Data Modeling**
 - **Data Visualization**
-##📂 Project Structure
+- 
+## 📂 Project Structure
 The files in this repository are currently stored in the root directory:
 Finance-Analysis-Power-BI-Dashboard/
 │
@@ -88,6 +89,7 @@ Finance-Analysis-Power-BI-Dashboard/
 ├── Finance_Analysis_Data.csv
 ├── Finance_Analysis_Overview.png
 └── Finance_Analysis_Transactions.png
+
 ## 📁 Project Files
 Power BI Dashboard
 Finance_Analysis_Dashboard.pbix
