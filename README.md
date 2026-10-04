@@ -79,6 +79,7 @@ Based on the displayed dashboard:
 - **Data Transformation**
 - **Data Modeling**
 - **Data Visualization**
+
 ## 📂 Project Structure
 finance-analysis-powerbi-dashboard/
 │
