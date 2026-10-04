@@ -1,10 +1,7 @@
 # 💰 Finance Analysis – Power BI Dashboard
 An interactive **Finance Analysis Dashboard** built using **Microsoft Power BI** to analyze financial transactions, customers, transaction types, fees, taxes, and customer segments.
-## 📊 Dashboard Preview
-### Finance Analysis – Overview
-<img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/finance-analysis-powerbi-dashboard/main/images/Finance_Analysis_Overview.png" width="100%" alt="Finance Analysis Overview">
-### Finance Analysis – Transactions
-<img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/finance-analysis-powerbi-dashboard/main/images/Finance_Analysis_Transactions.png" width="100%" alt="Finance Analysis Transactions">
+![Finance Analysis Overview](Finance_Analysis_Overview.png)
+![Finance Analysis Transactions](Finance_Analysis_Transactions.png)
 ## 🎯 Project Objective
 The objective of this project is to analyze financial transaction data and create an interactive Power BI dashboard that provides insights into:
 - Financial transaction performance
