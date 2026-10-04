@@ -1,5 +1,6 @@
 # 💰 Finance Analysis – Power BI Dashboard
 An interactive **Finance Analysis Dashboard** built using **Microsoft Power BI** to analyze financial transactions, customers, transaction types, fees, taxes, and customer segments.
+## Dashboard Preview
 ![Finance Analysis Overview](Finance_Analysis_Overview.png)
 ![Finance Analysis Transactions](Finance_Analysis_Transactions.png)
 ## 🎯 Project Objective
